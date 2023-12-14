@@ -2,8 +2,8 @@
   "general_data": { 
     "specific_data": [
       {"const_uid": "const_1", "first_name": "Jack", "last_name": "Tripper", "Job": "Cook" },
-      {"const_uid": "acmetest", "first_name": "John", "last_name": "Lennon", "Job": "Musician" },
-      {"const_uid": "const_3", "first_name": "James", "last_name": "Woods", "Job": "Actor" }
+      {"const_uid": "acmetest", "first_name": "John", "last_name": "Lennon", "Job": "Acme" },
+      {"const_uid": "codigo23", "first_name": "James", "last_name": "Woods", "Job": "Codigo" }
     ]  
   }
 }

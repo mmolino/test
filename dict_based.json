@@ -1,12 +1,12 @@
 {
   "general_data": {
     "specific_data": {
-      "268e671f-8d50-11eb-ba1a-2d7a4463b57a": {
+      "const_1": {
         "first_name": "Jack",
         "last_name": "Tripper",
         "Job": "Character"
       },
-      "268e6721-8d50-11eb-ba1a-2d7a4463b57a": {
+      "const_2": {
         "first_name": "John",
         "last_name": "Lennon",
         "Job": "Musician"

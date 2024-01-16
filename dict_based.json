@@ -4,12 +4,12 @@
       "268e671f-8d50-11eb-ba1a-2d7a4463b57a": {
         "first_name": "Jack",
         "last_name": "Tripper",
-        "Job": "Acme"
+        "Job": "Character"
       },
       "268e6721-8d50-11eb-ba1a-2d7a4463b57a": {
         "first_name": "John",
         "last_name": "Lennon",
-        "Job": "Codigo"
+        "Job": "Musician"
       },
       "const_3": {
         "first_name": "James",

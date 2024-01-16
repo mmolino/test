@@ -4,17 +4,17 @@
       "const_1": {
         "first_name": "Jack",
         "last_name": "Tripper",
-        "Job": "Character"
+        "job": "Character"
       },
       "const_2": {
         "first_name": "John",
         "last_name": "Lennon",
-        "Job": "Musician"
+        "job": "Musician"
       },
       "const_3": {
         "first_name": "James",
         "last_name": "Woods",
-        "Job": "Actor"
+        "job": "Actor"
       }      
     }
   }

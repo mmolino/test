@@ -1,9 +1,9 @@
 { 
   "general_data": { 
     "specific_data": [
-      {"const_uid": "const_1", "first_name": "Jack", "last_name": "Tripper", "Job": "Cook" },
-      {"const_uid": "268e671f-8d50-11eb-ba1a-2d7a4463b57a", "first_name": "John", "last_name": "Lennon", "Job": "Acme" },
-      {"const_uid": "268e6721-8d50-11eb-ba1a-2d7a4463b57a", "first_name": "James", "last_name": "Woods", "Job": "Codigo" }
+      {"const_uid": "const_1", "first_name": "Jack", "last_name": "Tripper", "job": "Character" },
+      {"const_uid": "const_2", "first_name": "John", "last_name": "Lennon", "job": "Acme" },
+      {"const_uid": "const_3", "first_name": "James", "last_name": "Woods", "job": "Actor" }
     ]  
   }
 }
